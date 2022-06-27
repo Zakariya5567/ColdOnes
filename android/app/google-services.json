@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618168590513",
+    "project_id": "cold-ones-f6e3e",
+    "storage_bucket": "cold-ones-f6e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618168590513:android:f1efe997045b1eec7e4290",
+        "android_client_info": {
+          "package_name": "com.example.cold_ones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618168590513-scmefp6ibc9aukqeltvhem840qd33c37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cold_ones",
+            "certificate_hash": "e924e6b132fc9fa9d5c1bd2f563ece46d1c4fb7c"
+          }
+        },
+        {
+          "client_id": "618168590513-qba4asgqdop9vkqfung53dp29jguabtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmLxBR60B52ueX4zAequybpy9k0u6L4Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618168590513-qba4asgqdop9vkqfung53dp29jguabtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
